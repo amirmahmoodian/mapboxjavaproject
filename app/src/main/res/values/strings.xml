@@ -5,4 +5,7 @@
     </string>
     <string name="stop">STOP</string>
     <string name="start">START</string>
+    <string name="gps_network_not_enabled">GPS Network Not Enabled</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
 </resources>
